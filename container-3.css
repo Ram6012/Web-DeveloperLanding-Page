@@ -1,0 +1,24 @@
+.box-1{
+    border-radius: 10px;
+    margin: 32px 11px;
+    padding: 0px;
+    color: aliceblue;
+    background-color: #f87d7d;
+    /* border: 2px solid yellow; */
+}
+.container-3{
+      
+    margin: 5px;
+    display: flex;
+    /* border: 2px solid red; */
+    position: relative;
+    width: 900px;
+    height: 480px;
+    margin: 50px;
+    border-radius: 10px;
+    padding-left: 15px;
+    /* box-shadow: 0 4px 6px rgba(0, 0, 0, 0.4); */
+}
+.container-3 img{
+    border-radius: 5px;
+}

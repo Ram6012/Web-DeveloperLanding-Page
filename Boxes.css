@@ -1,0 +1,13 @@
+.container-3 .box-1{
+    
+    background-color: #ec5d5d;
+    color: aliceblue;
+    font-family: verdana;
+    position: relative;
+    border: 2px solid green;
+    height: 100%;
+}
+.box-1:hover{
+    cursor: pointer;
+
+}

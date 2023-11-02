@@ -1,0 +1,59 @@
+.container-1 {
+    background-image: url('Original\ bg.jpg');
+    background-position: center;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh; /* This ensures it covers the entire viewport height */
+    width: 100%;  /* This ensures it covers the entire viewport width */
+    margin: -20px;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    margin-top: 0%;
+}
+
+.container-1 h2 {
+    text-align: center; /* Center align the content if needed */
+    color: #fff; /* Text color for the h2 element */
+    font-size: 40px;
+    position: relative;
+    left: 30px;
+}
+/* .container-1  .text-line-1{
+    display: flex;
+    border: 2px solid red;
+    flex-direction:column;
+    position: relative;
+    height: 400px;
+    width: 100px;
+
+
+
+} */
+.container-2 .text-line-2{
+    position: relative;
+    border: 2px solid red;
+    height: 60px;
+    width: 90px;
+
+}
+.container-1 .text-line-1 p{
+    font-size: 40px;
+    color: aliceblue;
+    font-family: verdana;
+    display: inline;
+    position: relative;
+    top: 50px;
+    left: 310px;
+}
+.container-1 .text-line-2{
+    font-size: 50px;
+    color: aliceblue;
+    font-family: Arial;
+    position: relative;
+    display: inline;
+    top: 68px;
+    left: 50px;
+}
